@@ -4,5 +4,5 @@ Getting Started ...
 
 Thinking ... 
 
-Let's start with a **Quote Runner** (cooking in progress...)
+💡 Let's start with a **Quote Runner** (cooking in progress...🍳)
 
